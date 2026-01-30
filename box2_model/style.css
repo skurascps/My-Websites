@@ -28,12 +28,28 @@ width: 300px;
 }
 #pinterest {
   background-color: cornflowerblue;
+}
+#sports  {
+background-color: aquamarine;
+
+}
+ 
   
-
-
+#pinterest {
+height: 600px;
 
 
 }
+/* h4{
+  font-size: 50px;
+} */
+
+#specialh4{
+  font-size: 50px;
+}
+
+
+
 
 
 /* .card{
