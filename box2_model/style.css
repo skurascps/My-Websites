@@ -1,0 +1,48 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-size: 30px;
+  box-sizing: border-box;
+}
+
+/* .card{
+background-color: rgb(224, 172, 245);
+padding: 10px;
+border: 30px  solid rgb(150, 156, 245) ;
+margin: 60px;
+height: 100px;
+width: 100px;
+
+} */
+
+.card{
+background-color: rgb(250, 174, 146);
+padding: 10px;
+border: 0  solid ;rgb(235, 194, 235) ;
+margin: 70px;
+height: 300px;
+width: 300px;
+
+
+
+}
+#pinterest {
+  background-color: cornflowerblue;
+  
+
+
+
+
+}
+
+
+/* .card{
+background-color: rgb(250, 174, 146);
+padding: 10px;
+border: 0  solid ;rgb(235, 194, 235) ;
+margin: 70px;
+height: 100px;
+width: 100px;
+border:30px solid rgb(245, 195, 245)
+} */
+

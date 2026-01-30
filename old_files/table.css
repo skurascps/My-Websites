@@ -1,0 +1,19 @@
+table, th, td {
+ border: 1px solid black;
+    border-collapse; collapse;
+    /* center the table */
+    /* margin: auto; */
+    margin: 0 auto;
+}
+table {
+    background-color: rgb(165, 164, 212);
+    /* move to center of page*/
+        margin-top: 5%;
+}
+body{
+  background-image: url("Hancock.jpg"); /* The image used */
+
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}

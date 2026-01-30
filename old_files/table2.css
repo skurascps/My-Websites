@@ -1,0 +1,18 @@
+table, th, td {
+ border: 1px solid black;
+    border-collapse; collapse;
+    /* center the table */
+    /* margin: auto; */
+    margin: 0 auto;
+}
+table {
+    background-color: rgba(165, 164, 212, 0.322);
+    /* move to center of page*/
+        margin-top: 5%;
+}
+body{
+  background-image: url("Lana Del Rey.jpg");
+   background-size: 1000px auto;  
+   margin-inline: 7 ;
+
+}
